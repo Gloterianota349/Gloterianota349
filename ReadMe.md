@@ -1,5 +1,5 @@
 # 💫 About Me:
-📕  I’m currently studying Computer Technician for Internet at SENAI - Camaçari<br>🤖 I’m currently on a robotics team for OBR (Brazilian Robotics Olympiad)<br>🔎 I’m currently in a scientific initiation group in Environmental Chemistry<br> ⚙  I’m currently learning electronics for competition robots<br> 🖥 I’m currently learning programming
+📕  I’m currently studying Computer Technician for Internet at SENAI - Camaçari<br>🔎 I’m currently in a scientific initiation group in Environmental Chemistry<br> 🖥 I’m currently learning programming
 
 
 ## 🌐 Socials:
